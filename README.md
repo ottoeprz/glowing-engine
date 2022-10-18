@@ -1,13 +1,24 @@
 # PadelGlow
 
-A veces no necesariamente tenemos que ser profesionales del padel para apetecernos jugar un rato con nuestros amigos, conocidos o familiares.
-Generalmente aquí en granada y en muchas de nuestras ciudades disponemos de una gran cantidad de pistas de pádel, pero no una forma facil de acceder a ellas, generalmente tenemos que estar haciendo búsquedas tediosas en internet para ver cuales se encuentran en nuestra localidad  y/o ver si podemos reservar en los que dispongan de sus propios portales en internet. Incluso podemos llegar a realizar largas caminatas si no conseguimos la información adecuada en internet para poder gestionar la correctamente una reserva.
+Sácale partido a tus ratos en el padel.
 
 ## Descripción
 
-PadelGlow tendrá como funcion principal resolver este problema. Facilitando así la ubicación y reserva de las pistas de padel mas cercanas que esten disponibles para una reserva en un periodo de tiempo determinado.
+Muchas veces cuando nos dirigimos a jugar padel con nuestros amigos, familiares o conocidos siempre hacemos los equipos como mejor creemos conveniente, pero al final siempre buscamos elegir a quien nos caiga mejor o con quien mas nos convenga, es decir, nunca logramos una composicion de equipo justa a la hora de hacer el 2 vs 2 para que sea un partido justo y entretenido.
 
-## Enlaces
+## Solución
 
-Para encontrar información sobre los establecimientos deportivos de andalucía podremos hacerlo en este [enlace](https://www.juntadeandalucia.es/datosabiertos/portal/dataset/b2e536c3-9e11-4d0d-ba47-ef92c1edddc0/resource/47cd8d92-b8e3-46f5-b064-49bbf2689408/download/censo_instalaciones_deportivas.csv)
+Teniendo en cuenta los niveles de cada participante y la experiencia que tiene cada uno en el deporte podremos generar un partido perfecto para sacar el máximo rendimiento y provecho al mismo.
+
+## Lógica de negocio
+
+Primeramente pediremos unos pocos datos con los que el programa usara para analizar y/o predecir la mejor composicion para una partida posible según el parámetro que le pasemos como motivo del partido.
+Por lo que este pedirá los siguientes datos:
+
+- Nombres de los participantes Maria, Pedro, Anais, Carlota
+- Nivel de juego de cada participante -> Alto, medio, medio/alto, bajo
+- Años de experiencia de cada jugador -> 4,2,1,0
+- Motivo del partido -> Entretenimiento, Competición, Práctica
+
+El programa mostrará una composición 2 vs 2 de los integrantes adecuadamente según los parámetros que le hayamos pasado.
 
