@@ -15,7 +15,7 @@ Teniendo en cuenta los niveles de cada participante y la experiencia que tiene c
 Primeramente pediremos unos pocos datos con los que el programa usara para analizar y/o predecir la mejor composicion para una partida posible según el parámetro que le pasemos como motivo del partido.
 Por lo que este pedirá los siguientes datos:
 
-- Nombres de los participantes Maria, Pedro, Anais, Carlota
+- Nombres de los participantes -> Maria, Pedro, Anais, Carlota
 - Nivel de juego de cada participante -> Alto, medio, medio/alto, bajo
 - Años de experiencia de cada jugador -> 4,2,1,0
 - Motivo del partido -> Entretenimiento, Competición, Práctica
