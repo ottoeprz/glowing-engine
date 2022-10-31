@@ -20,5 +20,6 @@ Por lo que este pedirá los siguientes datos:
 - Años de experiencia de cada jugador -> 4,2,1,0
 - Motivo del partido -> Entretenimiento, Competición, Práctica
 
-El programa mostrará una composición 2 vs 2 de los integrantes adecuadamente según los parámetros que le hayamos pasado.
+El programa mostrará una composición 2 vs 2 de los integrantes según los diferentes datos obtenidos, correspondientes a los niveles de cada jugador.
+Esto se basará en obtener dicha composición a través del método greedy usando los valores almacenados en los distintos niveles. También se almacenarán los datos para realizar comprobaciones con el número de peticiones realidas para estudiar posibles mejoras del código.
 
