@@ -1,7 +1,7 @@
 # Personas
 
-## Paula
-Paula es una estudiante de segundo año de logopedia. De pequeña practicaba padel, estuvo muchos años sin jugar pero ahora 
+## Beatriz
+Beatriz es una estudiante de segundo año de logopedia. De pequeña practicaba padel, estuvo muchos años sin jugar pero ahora 
 le encanta jugar con su novio, no le gusta cuando no les toca en equipos diferentes.
 
 ## Emilio
