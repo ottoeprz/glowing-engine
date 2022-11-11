@@ -1,0 +1,8 @@
+- [] M0: Implementación de una estructura de datos en un fichero/ficheros que permita:
+  - Almacenar parejas de jugadores
+  - Identificar las distintas parejas formadas en un momento dado
+  - Guardar correctamente el motivo del partido
+  - Almacenar el número de peticiones
+- [] M1: Construir métodos en fichero/ficheros que puedan realizar:
+  - Obtener la mejor pareja dado un motivo de partido específico con la utilizacion del método greedy
+  - Obtener un nivel de satisfaccion posible del usuario trabajando con el número de peticiones
