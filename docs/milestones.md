@@ -1,8 +1,8 @@
-- [ ] [M0]: Diseño de una estructura de datos en distintos ficheros que permita:
+- [ ] [M0]: Implementación de una estructura de datos en distintos ficheros que permita:
   - Almacenar parejas de jugadores
   - Identificar distintas parejas en un momento dado
-- [ ] [M1]: Diseño de un método que componga un módulo, en un fichero que permita:
+- [ ] [M1]: Diseño de un método que forme parte de un módulo, en un fichero que permita:
   - Obtener la pareja potencial dado el motivo del partido (cualquiera)
-- [ ] [M2]: Diseño de unos métodos que conformen un módulo en un fichero que puedan:
+- [ ] [M2]: Diseño de unos métodos que conformen un módulo en un fichero que permitan:
   - Dado un motivo de partido específico, generar la pareja potencial para el mismo
   - Obtener la pareja potencial dado el motivo y una pareja
