@@ -1,0 +1,4 @@
+- [ ] [M0]: Ficheros que contengan el modelo del problema:
+  - Diseño e implementacion de una estructura que aloje y modelice el problema
+- [ ] [M1]: Implementación de la lógica de negocio:
+  - Implementación de un algoritmo que genere parejas potenciales, evaluando en cada una según el motivo del partido
