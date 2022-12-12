@@ -9,3 +9,4 @@ class partido:
         self.__jugadores = [jug1, jug2, jug3, jug4]
         self.__equipo1 = []
         self.__equipo2 = []
+        
