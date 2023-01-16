@@ -1,0 +1,4 @@
+lenguaje: python
+entidad:
+  - src/jugador.py
+  - src/partido.py
